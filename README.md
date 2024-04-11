@@ -5,3 +5,4 @@ Files and Exercises from Dan Gookin's ["C Programming for Dummies"](https://c-fo
 ## Incomplete Topics / for Review
 
 - [ ] ex0817.c: return value of 'scanf'
+- [ ] ex0920.c: removing trailing ',', see 'test.c'

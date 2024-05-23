@@ -14,6 +14,7 @@ int main() {
    printf("About variable 'sidekick':\n");
    printf("Size\t\t%zd\n", sizeof(sidekick));
    printf("Contents\t%p\n", sidekick);
+   printf("Location\t%p\n", &sidekick);
    printf("Peek value\t%c\n", *sidekick);
 
    return 0;

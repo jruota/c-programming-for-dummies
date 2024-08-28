@@ -12,5 +12,11 @@ int main() {
    }
    putchar('\n');
 
+   printf("*pa -> %c\n", *pa);
+   // printf("--(*pa) -> %c\n", --(*pa));
+
+   printf("(*pa)-- -> %c\n", (*pa)--);
+   printf("*pa -> %c\n", *pa);
+
    return 0;
 }
